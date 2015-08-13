@@ -1,0 +1,163 @@
+
+
+#cg_menu {
+  font-size:14px;
+}
+
+#cg_menu ul {
+  list-style-type:none;
+  list-style-image:none;
+  margin:0px;
+  padding:0px;
+}
+
+#cg_menu li.cg_topmenu {
+  float:left;
+}
+
+.cg_topmenu a {
+  float:left;
+  width:110px;
+  text-align:center;
+}
+
+.cg_topmenu ul{
+  display:none;
+}
+
+.cg_topmenu a, .cg_submenu a{
+  padding:1px 5px;
+  border:1px solid #C37000;
+  border-collapse:collapse;
+  color:#C37000;
+  font-weight:bold;
+  text-decoration:none;
+  background-color:#7F4800;
+  margin:0;  
+}
+
+.cg_submenu a{
+  font-size:12px;
+  width:110px;
+  position:relative;
+  clear:both; /* special IE6 */
+}
+
+#cg_menu a:hover, .cg_topmenu.on a {
+  color:#4C4C4C;
+  background-color:#ffddbb !important;
+}
+
+.cg_topmenu:hover ul {
+  display:block;  
+  z-index:500;
+}
+
+
+
+/* Css von der kleinen Lupe*/
+.pngzoom{
+border: none !important;
+box-shadow: none !important;
+}
+
+.cgimg{
+border: none !important;
+box-shadow: none !important;
+}
+
+
+.ul-cgrating {
+  margin:0 auto;
+  display:block;
+  width:250px;
+  text-decoration:none !important;
+  list-style: none !important;
+  border: none !important;
+box-shadow: none !important;
+margin-left:0px;
+padding-left:0px;
+}
+.ul-cgrating li {
+  float:left;
+  margin: 0;
+  margin-right: 3px;
+  border: none !important;
+box-shadow: none !important;
+	 }
+
+.ul-cgrating a {
+  display:block;
+  font-size:0px;
+  width:20px;
+  height:20px;
+  text-decoration:none !important;	
+}
+
+#cg-arrow-right{
+border: none !important;
+box-shadow: none !important;
+//float: left !important;
+}	
+
+#cg-arrow-left{
+border: none !important;
+box-shadow: none !important;
+//float: left !important;
+vertical-align: top;
+}	
+
+#cg-img-gallery{
+border: none !important;
+box-shadow: none !important;
+//float: left !important;
+margin-left:auto  !important;
+margin-right:auto  !important;
+vertical-align: top;
+}
+
+#main-img{
+display:block !important;
+margin: 0 auto !important;
+//border: 1px solid;
+margin-left:auto  !important;
+margin-right:auto  !important;
+text-align: center;
+}
+
+#center{
+margin-left:auto  !important;
+margin-right:auto  !important;
+}
+
+#ul-stars{
+text-align: left;
+ display:block;
+ padding-left: 0px;
+margin-left:0px  !important;
+
+}
+
+#ul-stars ul{
+margin-left:auto  !important;
+margin-right:auto  !important;
+float:left;
+}
+
+
+.neweditor{
+width:600px; // What ever size you want
+border: 8px solid;
+margin-left: 100px;
+}
+
+#test1{
+width:600px; // What ever size you want
+border: 8px solid;
+margin-left: 100px;
+background-color: green;
+}
+
+
+
+
