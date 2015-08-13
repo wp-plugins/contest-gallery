@@ -1,7 +1,7 @@
 === Contest Gallery ===
 Contributors: Contest-Gallery
 Donate link: http://www.contest-gallery.com
-Tags: contest, contest gallery, gallery, galleries, image, images, image gallery, photo, photos, photo gallery, picture, pictures, picture gallery, album, albums, photo albums, image album, media, media gallery, thumbnails, thumbnail gallery, thumbnail galleries, slideshow, slideshows, slideshow gallery, slideshow galleries, fancybox, lightbox, responsive, responsive gallery, responsive galleries, wordpress responsive gallery, nextcellent, wordpress gallery plugin, wordpress photo gallery plugin, wp gallery, wp gallery plugins, best gallery plugin, free photo gallery, singlepic, image captions imagebrowser, watermarks, watermarking, photography, photographer
+Tags: contest, contest gallery, gallery, galleries, view, height view, thumb view, panorama, panorama views, different views, image, images, image gallery,  pictures, picture gallery, album, albums, photo albums, image album, media, media gallery, photo, photos, photo gallery, picture,thumbnails, thumbnail gallery,  slideshow gallery, slideshow galleries, fancybox, lightbox, responsive, responsive gallery, thumbnail galleries, slideshow, slideshows, responsive galleries, wordpress responsive gallery, wordpress gallery plugin, wordpress photo gallery plugin, wp gallery, wp gallery plugins, best gallery plugin, free photo gallery, singlepic, image captions imagebrowser, watermarks, watermarking, photography, photographer
 Requires at least: 3.9
 Tested up to: 4.2.2
 Stable tag: 4.2.2
