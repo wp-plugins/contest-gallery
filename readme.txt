@@ -8,6 +8,8 @@ Stable tag: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Plugin with ability to upload images in frontend, to manage them in backend, to display them in different ways in frontend and to rate them.
+
 == Description == 
 Plugin with ability to upload images in frontend, to manage them in backend, to display them in different ways in frontend and to rate them.
 
